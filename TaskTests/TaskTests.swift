@@ -1,9 +1,3 @@
-//
-//  TaskTests.swift
-//  TaskTests
-//
-//  Created by Mahmudov Asrbek Ulug'bek o'g'li on 15/12/21.
-//
 
 import XCTest
 @testable import Task
